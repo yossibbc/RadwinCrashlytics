@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "203999561946",
+    "firebase_url": "https://crash-test-22f83.firebaseio.com",
+    "project_id": "crash-test-22f83",
+    "storage_bucket": "crash-test-22f83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203999561946:android:8ce170fb794e433c2f3de3",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203999561946-7fae6bkdt6cdpru9d7jgrb91egi48o12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7X6L2m_W5bMG1OnErdrF9I0R9Qzof4zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203999561946-7fae6bkdt6cdpru9d7jgrb91egi48o12.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "203999561946-gg22dqj9trl8fg9v2tunu8fl6ijgvj72.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.crashlytics.test",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
