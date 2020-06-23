@@ -1,0 +1,7 @@
+{
+  "name": "crashlytics-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
